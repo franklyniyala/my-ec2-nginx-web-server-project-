@@ -17,7 +17,7 @@ Also to install an Nginx server into the EC2 instance and enable the server.
 - Launched an EC2 Instance
   ![The amazon ec2](screenshots/1_ec2.png)
   - Created a key-pair
-  - Create a security group
+  - Described an Amazon Machine Image (AMI) for the project
     ![key-pair and security-group](screenshots/1_key_security.png) 
   - Described the amazon machine image (AMI)
 - Connected to the EC2 server via command-line secure shell (SSH)
