@@ -27,9 +27,9 @@ Described an Amazon Machine Image (AMI) for the project
   - started Nginx
   - Enabled Nginx
   - Checked its functionality (running)
-    ![Nginx server](1_nginx.png)
+    ![Nginx server](screenshots/1_nginx.png)
 - Hosted an HTML web
 - Checked the functionality of Nginx with HTML web
-  ![HTML web functionality](1_nginx_server.png)
+  ![HTML web functionality](screenshots/1_nginx_server.png)
 # Screenshots 
 The screenshots of the project is uploaded.
