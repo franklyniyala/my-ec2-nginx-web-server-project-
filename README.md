@@ -15,8 +15,9 @@ Also to install an Nginx server into the EC2 instance and enable the server.
 - Configured the AWS cli for the project
   ![Installation and Configure of AWSCLI](screenshots/1_install_config.png)
 
-Created a key-pair
-Described an Amazon Machine Image (AMI) for the project
+- Created a key-pair
+- Described an Amazon Machine 
+Image (AMI) for the project
   ![key-pair and security-group](screenshots/1_key_security.png) 
 - Launched an EC2 Instance
   ![The amazon ec2](screenshots/1_ec2.png)
@@ -27,7 +28,7 @@ Described an Amazon Machine Image (AMI) for the project
   - started Nginx
   - Enabled Nginx
   - Checked its functionality (running)
-    ![Nginx server](screenshots/1_nginx.png)
+  ![Nginx server](screenshots/1_nginx.png)
 - Hosted an HTML web
 - Checked the functionality of Nginx with HTML web
   ![HTML web functionality](screenshots/1_nginx_server.png)
